@@ -31,11 +31,12 @@
     ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![empd exp 4 ip](https://github.com/Tanushreea05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849166/4bebc653-aea7-47b4-88d8-45c27801025e)
 
-![exp4i](https://github.com/Hezron-lix/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331337/93d2938d-70f8-496d-92df-41299328b075)
 
 ### Output:
-![exp4](https://github.com/Hezron-lix/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139331337/327e52ff-ad73-4af7-9e9c-1c19b3c31514)
+![empd exp 4 op](https://github.com/Tanushreea05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849166/55404e0c-7a64-4b9a-af0a-14fac007d3c6)
+
 
 
 ### Name: JOTHILAKSHMI P
